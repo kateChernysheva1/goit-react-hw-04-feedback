@@ -1,0 +1,15 @@
+.block {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+}
+
+.block__button {
+  max-width: 120px;
+  width: 100%;
+  background-color: #c496d7;
+  min-height: 40px;
+  border: 1px solid #1a001e;
+  border-radius: 50%;
+  cursor: pointer;
+}
